@@ -21,7 +21,7 @@ app.use(
       "http://localhost:8080",
       "https://fam-treasure-hub-main.vercel.app",
       "https://fam-treasure-clean.vercel.app",
-      "https://fam-treasure.cc"
+      "https://www.fam-treasure.cc"
     ],
     credentials: true,
   })

@@ -61,8 +61,8 @@ export const register = async (req, res) => {
           account_type: "checking",
           nickname: "Everyday Checking",
           account_number: generateAccountNumber(),
-          balance: 5000,
-          available_balance: 5000,
+          balance: 0,
+          available_balance: 0,
         },
       ]);
 
